@@ -32,7 +32,7 @@ package com.app;
 	}
 	@Override
 	public String toString() {
-		return "EmployeeSample [EmpId=" + EmpId + ", EmpName=" + EmpName
+		return "EmployeeSample Data [EmpId=" + EmpId + ", EmpName=" + EmpName
 				+ ", EmpSal=" + EmpSal + "]";
 	}
 	 
